@@ -1,0 +1,46 @@
+body{
+
+}
+
+p{
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+h3{
+    color: black;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+}
+
+li{
+
+}
+
+#Header{
+    width: 800px;
+    height: 600px;
+    position: relative;
+    background-image: url('Beach.png');
+    outline-style: dotted;
+    outline-color: blue;
+}
+#Header h1{
+    font-size: 60px; 
+    font-family: "Passion One"; 
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: yellow; 
+    font-weight: bold; 
+}
+#Picture{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
